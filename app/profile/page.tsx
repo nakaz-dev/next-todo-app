@@ -1,6 +1,5 @@
 'use client';
 
-import Head from "./head";
 import { useState } from "react";
 
 export default function Profile() {
