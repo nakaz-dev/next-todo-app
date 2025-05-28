@@ -1,6 +1,10 @@
 name = "yam-todo"
 compatibility_date = "2024-05-28"
 
+[vars]
+NEXT_PUBLIC_SUPABASE_URL="https://cqlqfxlpveahyptvvled.supabase.co"
+NEXT_PUBLIC_SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNxbHFmeGxwdmVhaHlwdHZ2bGVkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg0MjEyNDIsImV4cCI6MjA2Mzk5NzI0Mn0.CK7QTAy6CjwTiZ_dl1oAO487XBD5pGfczu50534oC-Y"
+
 [build]
 command = "npm run build"
 
