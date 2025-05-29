@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@cloudflare/d1": "^1.4.1",
+    "@cloudflare/next-on-pages": "^1.13.12",
     "@supabase/auth-helpers-nextjs": "^0.10.0",
     "@supabase/supabase-js": "^2.49.8",
     "next": "15.3.2",
