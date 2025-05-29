@@ -1,5 +1,6 @@
 name = "yam-todo"
 compatibility_date = "2024-05-28"
+pages_build_output_dir = "./.vercel/output/static"
 
 [vars]
 NEXT_PUBLIC_SUPABASE_URL="https://cqlqfxlpveahyptvvled.supabase.co"
